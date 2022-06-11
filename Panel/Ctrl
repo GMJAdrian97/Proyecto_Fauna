@@ -1,0 +1,33 @@
+<div class="galeria">
+    <H1> Galeria</h1>
+    <div class="linea"></div>
+    <div class="contenedor-ima">
+        <div class="ima">
+            <img src="../../../Imagenes/Galery/fauna.jpg"  alt="GaleryFhotp" />
+        </div>
+        <div class="ima">
+            <img src="../../../Imagenes/Galery/intalaciones.jpg"  alt="GaleryFhotp" />
+        </div>
+        <div class="ima">
+            <img src="../../../Imagenes/Galery/payaso.jpg"  alt="GaleryFhotp" />
+        </div>
+        <div class="ima">
+            <img src="../../../Imagenes/Galery/cirujano-az.jpg"  alt="GaleryFhotp" />
+        </div>
+        <div class="ima">
+            <img src="../../../Imagenes/Galery/cirujano-a.jpg"  alt="GaleryFhotp" />
+        </div>
+        <div class="ima">
+            <img src="../../../Imagenes/Galery/angelS.jpg"  alt="GaleryFhotp" />
+        </div>
+        <div class="ima">
+            <img src="../../../Imagenes/Galery/ChromiV.jpg"  alt="GaleryFhotp" />
+        </div>
+        <div class="ima">
+            <img src="../../../Imagenes/Galery/gobioF.jpg"  alt="GaleryFhotp" />
+        </div>
+        <div class="ima">
+            <img src="../../../Imagenes/Galery/gobioM.jpg"  alt="GaleryFhotp" />
+        </div>
+    </div>
+</div>
